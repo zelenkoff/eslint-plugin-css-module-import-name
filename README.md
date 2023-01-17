@@ -10,10 +10,10 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-import-style`:
+Next, install `eslint-plugin-css-module-import-name`:
 
 ```sh
-npm install eslint-plugin-import-style --save-dev
+npm install eslint-plugin-css-module-import-name --save-dev
 ```
 
 ## Usage
